@@ -22,6 +22,9 @@
 - [数据库相关主题](http://www.jb51.net/list/index_104.htm)
 - [常用版本5.6官方文档](https://dev.mysql.com/doc/refman/5.6/en/preface.html)
 
+#### Mybatis：
+- [入门教程](https://www.yiibai.com/mybatis/)
+
 #### Spring：
 - [Spring入门](https://www.yiibai.com/spring/spring-tutorial-for-beginners.html)
 
