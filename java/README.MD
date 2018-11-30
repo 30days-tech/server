@@ -36,3 +36,4 @@
 - [Redis命令大全](http://doc.redisfans.com/)
 
 ## 最佳实践
+- [日志分析](http://www.importnew.com/27705.html)
