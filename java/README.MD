@@ -40,3 +40,4 @@
 ## 最佳实践
 - [日志分析](http://www.importnew.com/27705.html)
 - [请求限流](https://mp.weixin.qq.com/s/Ja34xAu6FMH0dJlv6lzmzw)
+- [系统监控](https://www.infoq.cn/article/O5f5_xgByQ9lNTYmIZDM)
