@@ -34,7 +34,9 @@
 #### 缓存
 - [Redis入门](http://www.runoob.com/redis/redis-tutorial.html)
 - [Redis命令大全](http://doc.redisfans.com/)
+- [Redis架构分析](https://mp.weixin.qq.com/s/1N4sMAFbfJozdvsEyOuuwA)
+- [Redis性能排查](http://www.cnblogs.com/mushroom/p/4738170.html)
 
 ## 最佳实践
 - [日志分析](http://www.importnew.com/27705.html)
-- [Redis性能排查](http://www.cnblogs.com/mushroom/p/4738170.html)
+
