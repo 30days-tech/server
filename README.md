@@ -2,5 +2,5 @@
 服务端统一共享目录（暂包含Java和Nodejs两种语言的最佳实践、学习资源、技能树等）
 
 # 目录导航
--[https://github.com/30days-tech/server/tree/master/java] Java
+- [Java](https://github.com/30days-tech/server/tree/master/java)
 ## Nodejs
