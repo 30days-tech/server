@@ -17,7 +17,7 @@
 
 ## 学习资源
 #### MySQL：
-- [SQL语法入门](http://www.w3school.com.cn/sql/)
+- [SQL语法入门](http://www.w3school.com.cn/sql/index.asp)
 - [Mysql入门系列教程](http://blog.csdn.net/column/details/16138.html)
 - [数据库相关主题](http://www.jb51.net/list/index_104.htm)
 - [常用版本5.6官方文档](https://dev.mysql.com/doc/refman/5.6/en/preface.html)
